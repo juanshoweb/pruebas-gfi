@@ -1,0 +1,6 @@
+{
+    "name": "jwtecocha/mq",
+    "require": {
+    	"php-amqplib/php-amqplib": ">=2.6.1"
+    }
+}
